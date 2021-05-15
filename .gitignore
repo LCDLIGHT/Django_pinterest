@@ -81,3 +81,5 @@ db.sqlite3
 __pycache__/
 
 .DS_Store
+
+media/
